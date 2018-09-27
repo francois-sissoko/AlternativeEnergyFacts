@@ -1,6 +1,8 @@
 # AlternativeEnergyFacts
 
-1.Photovoltaic cells.py is a python file describing photovoltaic cells and what they do with a few metrics \n
+1.Photovoltaic cells.py is a python file describing photovoltaic cells and what they do with a few metrics 
+
+
 2.kyotoProtocol.py is a python file describing the kyotoProtocol.py 
 
 
